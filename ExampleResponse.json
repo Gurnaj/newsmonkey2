@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Jake Lambourne",
+            "title": "Manchester United legend Roy Keane leaves Micah Richards in stitches after bringing packed lunch to...",
+            "description": "Micah Richards was left in disbelief after his Sky Sports colleague Roy Keane brought in a packed lunch to Stamford Bridge. The pair are in attendance in west London as part of Sky’s punditry…",
+            "url": "https://talksport.com/football/1531815/roy-keane-micah-richards-packed-lunch-chelsea-liverpool/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/08/JF-TALKSPORT-ROY.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-08-13T15:21:11Z",
+            "content": "Micah Richards was left in disbelief after his Sky Sports colleague Roy Keane brought in a packed lunch to Stamford Bridge.\r\nThe pair are in attendance in west London as part of Sky's punditry team f… [+1863 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Listen: Women's Open - final round",
+            "description": "Listen to BBC Radio 5 Sports Extra commentary of the final round at Walton Heath, with text updates from 14:00 BST.",
+            "url": "http://www.bbc.co.uk/sport/live/golf/66432148",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-08-13T10:07:25.7139608Z",
+            "content": "You need one to watch live TV on any channel or device, and BBC programmes on iPlayer. Its the law.\r\nFind out more"
+        },
+        {
+            "source": {
+              "id": "fox-news",
+              "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Cardinals' Kyler Murray teased over odd piece of football equipment at training camp",
+            "description": "Arizona Cardinals star Kyler Murray faced ridicule over the weekend as he was teased for wearing what appeared to be a \"sports bra.\" But it was much more than that.",
+            "url": "https://www.foxnews.com/sports/cardinals-kyler-murray-teased-odd-piece-football-equipment-training-camp",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Kyler-Murray2.jpg",
+            "publishedAt": "2023-08-13T19:40:25Z",
+            "content": "Kyler Murray may be able to avoid defenses for a few more weeks as he recovers from a torn ACL, but he was unable to sidestep criticism over his practice outfit.\r\nMurray was seen wearing what appeare… [+1705 chars]"
+        },
+        {
+            "source": {
+              "id": "talksport",
+              "name": "TalkSport"
+            },
+            "author": "Jake Lambourne",
+            "title": "‘Where’s it all gone wrong?’ – Daniel Sturridge stuns Roy Keane with initiation song during Sky Sports cove...",
+            "description": "Daniel Sturridge left his new Sky Sports colleagues in stitches with his initiation song at Stamford Bridge. Though Manchester United legend Roy Keane was left asking, ‘where’s it all g…",
+            "url": "https://talksport.com/football/1532184/daniel-sturridge-initiation-song-roy-keane-funny-video/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/08/LB-comp-dan-roy2py.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-08-13T19:21:50Z",
+            "content": "Daniel Sturridge left his new Sky Sports colleagues in stitches with his initiation song at Stamford Bridge.\r\nThough Manchester United legend Roy Keane was left asking, 'where's it all gone wrong?' a… [+2020 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        }
+    ]
+}
